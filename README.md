@@ -1,5 +1,3 @@
-# README.md
-
 ```markdown
 # India Primary Energy Consumption Forecasting using LSTM
 
